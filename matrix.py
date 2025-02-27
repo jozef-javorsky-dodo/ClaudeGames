@@ -27,7 +27,7 @@ CROSS_COLOR = (0, 255, 0)
 TIMER_COLOR = (200, 255, 200)
 HOVER_COLOR = (0, 100, 0, 100)  # With alpha for transparency
 MATRIX_RAIN_COLOR = (0, 210, 0)
-GAME_OVER_BG = (0, 0, 0, 200)
+GAME_OVER_BG = (0, 0, 0, 190)
 
 # Set up the display
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
