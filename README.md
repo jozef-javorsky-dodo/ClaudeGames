@@ -1,3 +1,2 @@
-A set of mini-games and visualizers in Python using Claude 3.7 Sonnet.
-
-![image](https://github.com/user-attachments/assets/6dddc5b8-ccdd-4829-b493-cd7909c448fc)
+A set of games and visualizers in Python using Claude 3.7 Sonnet.
+![image](https://github.com/user-attachments/assets/a2069e0f-4c4c-4556-ad0e-8cdf6bbeab85)
